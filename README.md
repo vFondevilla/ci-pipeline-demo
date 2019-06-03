@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código usado en la demostración de CI del pasado 31 de Mayo de 2019.
 
-## Utilización de este repositorio
+## Utilizacion de este repositorio
 
 ### Requisitos
 
@@ -13,7 +13,8 @@ Este repositorio contiene el código usado en la demostración de CI del pasado 
 - Unas credenciales de AWS en formato Acess Key y Secret Key
 - Una clave de SSH en formato PEM
 
-### Cómo probarlo
+
+### Como probarlo
 
 1. Clonar este repositorio
 2. Sustituir los valores en main.tf y provider.tfvars.
